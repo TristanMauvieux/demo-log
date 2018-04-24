@@ -1,0 +1,3 @@
+11:47:40.684 [main] INFO  org.diginamic.App -bonjour je suis le debut de l'application
+11:47:40.684 [main] INFO  org.diginamic.App -implémentation LOGBACK
+11:47:40.684 [main] DEBUG org.diginamic.App -Traitement 1 : param =valeur N1
